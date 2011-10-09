@@ -1,5 +1,7 @@
 == Welcome to Rails
 
+This is part of the small steps that i am going to take to reach to my ultimate goals :)
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
